@@ -21,3 +21,5 @@
 	4.2 NP-complete problems and exact algorithms for them.
 	4.3 Approximation algorithms for NP-complete problems.
 	4.4 Local search algorithms for NP-complete problems; the wider world of algorithms.
+
+### foobar programming challenges
