@@ -1,6 +1,6 @@
 # cs.portforlio
 
-### Algorithms
+### Stanford Algorithms Specialization
 
 	1.1 Big O notation and asymptotic analysis
 	1.2 Divide-and-conquer basics; the master method for analyzing divide and conquer algorithms.
