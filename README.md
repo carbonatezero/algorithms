@@ -2,6 +2,8 @@
 
 ### Stanford Algorithms Specialization
 
+[Part I](https://www.youtube.com/playlist?list=PLEGCF-WLh2RLHqXx6-GZr_w7LgqKDXxN_)
+
 1. Introduction; "big-oh" notation and asymptotic analysis.
    
    Project: [karatsuba multiplication](https://github.com/carbonatezero/cs.portfolio/tree/main/karatsuba)
