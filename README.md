@@ -8,6 +8,8 @@
 
 2. Divide-and-conquer basics; the master method for analyzing divide and conquer algorithms.
 
+   Project: [count inverse](https://github.com/carbonatezero/cs.portfolio/tree/main/countinv)
+
 3. The QuickSort algorithm and its analysis; probability review.
 
 4. Linear-time selection; graphs, cuts, and the contraction algorithm.
