@@ -33,7 +33,7 @@
 
 7. Heaps; balanced binary search trees.
 
-   Project: [Dijkstra with priority queue](https://github.com/carbonatezero/cs.portfolio/tree/main/dijkstra-pq)
+   Project: [median maintenance problem](https://github.com/carbonatezero/cs.portfolio/tree/main/dijkstra-pq)
 
 8. Hashing; bloom filters.
 
