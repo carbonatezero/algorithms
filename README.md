@@ -19,6 +19,8 @@
 4. Linear-time selection; graphs, cuts, and the contraction algorithm.
 
 
+Part II
+
 5. Breadth-first and depth-first search; computing strong components; applications.
 
 6. Dijkstra's shortest-path algorithm.
@@ -28,6 +30,8 @@
 8. Hashing; bloom filters.
 
 
+Part III
+
 9. Two motivating applications; selected review; introduction to greedy algorithms; a scheduling application; Prim's MST algorithm.
 
 10. Kruskal's MST algorithm and applications to clustering; advanced union-find (optional).
@@ -36,6 +40,8 @@
 
 12. Advanced dynamic programming: the knapsack problem, sequence alignment, and optimal binary search trees.
 
+
+Part IV
 
 13. The Bellman-Ford algorithm; all-pairs shortest paths.
 
