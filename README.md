@@ -21,9 +21,11 @@
    Project: [Karger's algorithm](https://github.com/carbonatezero/cs.portfolio/tree/main/karger)
 
 
-Part II
+[Part II](https://www.youtube.com/playlist?list=PLEGCF-WLh2RJ5W-pt-KE9GUArTDzVwL1P)
 
 5. Breadth-first and depth-first search; computing strong components; applications.
+
+   Project: [Kosaraju's algorithm](https://github.com/carbonatezero/cs.portfolio/tree/main/kosaraju)
 
 6. Dijkstra's shortest-path algorithm.
 
