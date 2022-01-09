@@ -6,7 +6,7 @@
 
 1. Introduction; "big-oh" notation and asymptotic analysis.
    
-   Project: [karatsuba multiplication](https://github.com/carbonatezero/cs.portfolio/tree/main/karatsuba)
+   Project: [Karatsuba multiplication](https://github.com/carbonatezero/cs.portfolio/tree/main/karatsuba)
 
 2. Divide-and-conquer basics; the master method for analyzing divide and conquer algorithms.
 
