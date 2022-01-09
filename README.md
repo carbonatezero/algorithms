@@ -37,8 +37,10 @@
 
 8. Hashing; bloom filters.
 
+   Project: [two sum](https://github.com/carbonatezero/cs.portfolio/tree/main/twosum)
 
-Part III
+
+[Part III](https://www.youtube.com/playlist?list=PLEGCF-WLh2RI5H8JBWxq0Q4AN7XVaj-h-)
 
 9. Two motivating applications; selected review; introduction to greedy algorithms; a scheduling application; Prim's MST algorithm.
 
