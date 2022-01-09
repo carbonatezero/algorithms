@@ -14,6 +14,8 @@
 
 3. The QuickSort algorithm and its analysis; probability review.
 
+   Project: [quick sort](https://github.com/carbonatezero/cs.portfolio/tree/main/quicksort)
+
 4. Linear-time selection; graphs, cuts, and the contraction algorithm.
 
 
