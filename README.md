@@ -29,7 +29,11 @@
 
 6. Dijkstra's shortest-path algorithm.
 
+   Project: [Dijkstra's algorithm](https://github.com/carbonatezero/cs.portfolio/tree/main/dijkstra)
+
 7. Heaps; balanced binary search trees.
+
+   Project: [Dijkstra with priority queue](https://github.com/carbonatezero/cs.portfolio/tree/main/dijkstra-pq)
 
 8. Hashing; bloom filters.
 
