@@ -45,17 +45,8 @@
    Project: [Huffman coding](https://github.com/carbonatezero/cs.portfolio/tree/main/huffmancode/P12)  
    Project: [max-weight independent set](https://github.com/carbonatezero/cs.portfolio/tree/main/dpMWIS/P3)
 
-12. Advanced dynamic programming: the knapsack problem, sequence alignment, and optimal binary search trees.
+12. Advanced dynamic programming: the knapsack problem, sequence alignment, and optimal binary search trees.  
+   Project: [knapsack problem](https://github.com/carbonatezero/cs.portfolio/tree/main/knapsack)
 
-
-Part IV
-
-13. The Bellman-Ford algorithm; all-pairs shortest paths.
-
-14. NP-complete problems and exact algorithms for them.
-
-15. Approximation algorithms for NP-complete problems.
-
-16. Local search algorithms for NP-complete problems; the wider world of algorithms.
 
 ### Google foobar programming challenges
