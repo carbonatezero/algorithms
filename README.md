@@ -41,7 +41,9 @@
 10. Kruskal's MST algorithm and applications to clustering; advanced union-find (optional).  
    Project: [max-spacing k-clustering](https://github.com/carbonatezero/cs.portfolio/tree/main/cluster)
 
-11. Huffman codes; introduction to dynamic programming.
+11. Huffman codes; introduction to dynamic programming.  
+   Project: [Huffman coding](https://github.com/carbonatezero/cs.portfolio/tree/main/huffmancode/P12)
+   Project: [max-weight independent set](https://github.com/carbonatezero/cs.portfolio/tree/main/dpMWIS/P3)
 
 12. Advanced dynamic programming: the knapsack problem, sequence alignment, and optimal binary search trees.
 
