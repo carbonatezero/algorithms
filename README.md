@@ -1,4 +1,4 @@
-# cs.portforlio
+# cs.portfolio
 
 ### Stanford Algorithms Specialization
 
